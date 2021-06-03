@@ -29,9 +29,9 @@ Per la realització d'aquesta pràctica de *Neteja i anàlisi de les dades* s'ha
 <br/>
 <br/>
 
-***REQUERIMENTS TECNICS:***
+***REQUERIMENTS TÈCNICS:***
 
-Per l'execució del fitxer Rmd en rStudio, es necessari la instal·lació de les seguents llibreries:
+Per l'execució del fitxer Rmd en rStudio, es necessari la instal·lació de les següents llibreries:
 
 * library(ggplot2)
 * library(kableExtra) 
